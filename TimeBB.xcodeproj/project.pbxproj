@@ -44,6 +44,7 @@
 		8F1BBBFA2A87B58300325644 /* TimeBBUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TimeBBUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8F1BBBFE2A87B58300325644 /* TimeBBUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeBBUITests.swift; sourceTree = "<group>"; };
 		8F1BBC002A87B58300325644 /* TimeBBUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeBBUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		8F1BBC0D2A87B7A200325644 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +75,7 @@
 		8F1BBBD72A87B58200325644 = {
 			isa = PBXGroup;
 			children = (
+				8F1BBC0D2A87B7A200325644 /* README.md */,
 				8F1BBBE22A87B58200325644 /* TimeBB */,
 				8F1BBBF32A87B58300325644 /* TimeBBTests */,
 				8F1BBBFD2A87B58300325644 /* TimeBBUITests */,
